@@ -1,0 +1,6 @@
+Person Sorter
+CJ Karinen - CS 101-02
+The following is an echo print: 
+u#CJ#4530PinewayDr#(248)978-4394#Cjkarinen20@gmail.com#04/15/2002#f
+Alphabetical Order: 
+Staff Sorted by Date: 
